@@ -1,1 +1,17 @@
 Criando documentação do desenvolvimento de testes 
+
+plano de testes
+
+
+Abrir nav e logar 
+    verificar se a api encontrou o usuário 
+    verificar se a tela exibe logada
+
+Fazer uma busca randomica de data e local 
+    verificar se a api encontrou o local
+    verificar se na tela esse local aparece
+
+
+Trocar idioma e tipo de moeda
+    verificar se as trocas foram efetivadas
+    
